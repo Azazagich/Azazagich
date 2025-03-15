@@ -36,4 +36,5 @@ I’m a Java trainee backend developer and a 4th-year student at Vinnytsia Natio
 ---
 [![](https://visitcount.itsvg.in/api?id=Azazagich&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Thanks my friend [Tima](https://github.com/Timasostima) for code and idea for this) -->
+
