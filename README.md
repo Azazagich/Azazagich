@@ -1,5 +1,5 @@
 ## 👨‍🎓 About Me
-I’m a Java trainee backend developer and a 4th-year student at Vinnytsia National Technical University (VNTU).
+I’m a Java trainee backend developer.
 
 
 ## 🌐 Socials
